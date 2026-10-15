@@ -1,0 +1,14 @@
+# Visual Studio local settings
+.vs/
+*.vcxproj.user
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+
+# Generated results
+results.csv
